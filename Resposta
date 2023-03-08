@@ -1,0 +1,23 @@
+Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?  
+
+   
+
+IMPORTANTE:  
+
+a)            Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.  
+
+b)           Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)  
+
+c)            Explique como chegou no resultado. 
+
+RESPOSTA
+
+Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km. Como os veículos estão indo em direções opostas, eles se encontrarão no meio do caminho, após percorrerem cada um metade da distância total, ou seja, 50 km.
+
+O carro percorre esses 50 km a uma velocidade constante de 110 km/h, o que significa que levará 50/110 horas para percorrer essa distância, o que equivale a aproximadamente 0,45 horas ou 27 minutos.
+
+Já o caminhão percorre esses mesmos 50 km a uma velocidade constante de 80 km/h, mas como ele tem que passar por dois pedágios que atrasam sua viagem em 5 minutos cada um, seu tempo de viagem é um pouco maior. Assim, o caminhão levará 50/80 horas + 5 minutos + 5 minutos, o que equivale a aproximadamente 0,75 horas ou 45 minutos.
+
+Portanto, quando os veículos se encontrarem na rodovia, o carro estará mais próximo de Ribeirão Preto, pois ele já terá percorrido uma distância maior do que o caminhão. O carro ainda terá que percorrer 50 km para chegar a Ribeirão Preto, enquanto o caminhão terá que percorrer 50 km mais os 20 km que já percorreu antes de se encontrar com o carro.
+
+Em resumo, quando se encontrarem, o carro estará a 50 km de Ribeirão Preto, enquanto o caminhão estará a 70 km de Ribeirão Preto.
